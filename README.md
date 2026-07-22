@@ -2,8 +2,6 @@
 
 Backend Developer | Systems Engineering Student | Lifelong Learner
 
-### 🔧 Tech Stack
-
 <p align="center">
 
   <div align="center">
