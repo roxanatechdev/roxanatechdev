@@ -1,8 +1,28 @@
-# 👩‍💻 Hi, I'm Roxana Guzmán
 
-Backend Developer | Systems Engineering Student | Lifelong Learner
+<h1 align="center">👩‍💻 Hi, I'm Roxana Guzmán</h1>
 
+<h3 align="center">Backend Developer | Systems Engineering Student | Lifelong Learner</h3>
+
+<br>
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=roxanatechdev&color=blue" alt="Profile views" />
+  &nbsp;
+  <a href="https://github.com/roxanatech?tab=followers">
+    <img src="https://img.shields.io/github/followers/roxanatechdev?style=social" alt="Followers" />
+  </a>
+</p>
+<br>
+
+I'm a junior backend developer passionate about building clean, functional, and scalable solutions. I enjoy designing RESTful APIs, structuring databases, and integrating systems that actually work in production.
+
+I recently led the technical development of an e-commerce platform for a tech fair — from database design to API implementation and system integration. That experience sharpened my problem-solving skills and taught me the value of teamwork and ownership.
+
+I hold the **Oracle Cloud Infrastructure Foundations Associate** certification and I'm currently exploring how AI can enhance software development.
+
+I'm looking for opportunities to grow as a backend developer while contributing to meaningful projects.
+<br><br>
+### Languages and Tools:
+<p align="center"><br><br>
 
   <div align="center">
   
@@ -24,19 +44,7 @@ Backend Developer | Systems Engineering Student | Lifelong Learner
 
 
   </div>
-  </p>
-
-
-### 🚀 About Me
-
-I'm a junior backend developer passionate about building clean, functional, and scalable solutions. I enjoy designing RESTful APIs, structuring databases, and integrating systems that actually work in production.
-
-I recently led the technical development of an e-commerce platform for a tech fair — from database design to API implementation and system integration. That experience sharpened my problem-solving skills and taught me the value of teamwork and ownership.
-
-I hold the **Oracle Cloud Infrastructure Foundations Associate** certification and I'm currently exploring how AI can enhance software development.
-
-I'm looking for opportunities to grow as a backend developer while contributing to meaningful projects.
-
+  </p><br><br>
 
 ### 📫 Let's connect
 
